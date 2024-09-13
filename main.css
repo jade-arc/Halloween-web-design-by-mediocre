@@ -1,17 +1,42 @@
-#countdown {
-    text-align: center;
-  }
-  
-  #timer {
-    display: flex;
-    justify-content: center;
-  }
-  
-  #timer div {
-    margin: 0 10px;
-  }
-  
-  #timer span {
-    display: block;
-    font-size: 24px;
-  }
+
+#DSU-logo {
+    float: left;
+    width: 260px;;
+}
+
+#IEEE_logo {
+    float: right;
+    width: 150px;
+
+}
+
+.navi a {
+    color: wheat;
+    background-color: red;
+    font-weight: 500;
+    font-size: 1.1em;
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 6px 15px;
+    margin-right: auto;
+    float: right;
+    margin-top: 30px;
+}
+
+#login-but {
+    background-color: blue;
+}
+
+
+
+html {
+    font-size: 22px; 
+}
+body {
+    background-image: url(Halloween\ web\ background.png);
+    color: whitesmoke;
+}
+
+main {
+    background: url(nun-far.webp);
+}
