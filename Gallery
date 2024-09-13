@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="#">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
-      
-        
+   <img src="WhatsApp Image 2024-09-13 at 11.12.20_fce99179.jpg" alt="img1">
+   <img src="WhatsApp Image 2024-09-13 at 11.12.51_d0328044.jpg" alt="img2">
+   <img src="WhatsApp Image 2024-09-13 at 11.13.22_7fd0fd34.jpg" alt="img3">
+   <img src="WhatsApp Image 2024-09-13 at 11.13.42_0ba6f38c.jpg" alt="img4">
+    <img src="WhatsApp Image 2024-09-13 at 11.14.28_f2125b3e.jpg" alt="img5">
+    <img src="WhatsApp Image 2024-09-13 at 11.15.15_7299642c.jpg" alt="img6">
+    <img src="WhatsApp Image 2024-09-13 at 11.15.51_4d56b47d.jpg" alt="img7">
+    <img src="WhatsApp Image 2024-09-13 at 11.16.09_8d1719ab.jpg" alt="img8">
+    <img src="WhatsApp Image 2024-09-13 at 11.17.20_15f902f9.jpg" alt="img9">
     </body>
     </html>
